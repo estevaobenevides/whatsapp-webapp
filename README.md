@@ -1,4 +1,4 @@
-# whatsapp-webapp
+# Whatsapp-webapp
 
 [![Travis CI](https://img.shields.io/travis/rafael-neri/whatsapp-webapp/master.svg)](https://travis-ci.org/rafael-neri/whatsapp-webapp)
 [![GitHub Last Release](https://img.shields.io/github/release/rafael-neri/whatsapp-webapp.svg)](https://github.com/rafael-neri/whatsapp-webapp)
@@ -6,13 +6,12 @@
 [![GitHub issues](https://img.shields.io/github/issues/rafael-neri/whatsapp-webapp.svg)](https://github.com/rafael-neri/whatsapp-webapp/issues)
 [![Paypal](https://img.shields.io/badge/paypal-donate-brightgreen.svg)]()
 
-A simple &amp; beautiful desktop client for [WhatsApp Web](https://web.whatsapp.com/). Chat without distractions on OS X, Windows and Linux. Not affiliated with WhatsApp or Facebook. This is **NOT** an official product.
+A simple &amp; beautiful desktop client for WhatsApp Web. Chat without distractions on Windows and Linux. Not affiliated with WhatsApp. This is **NOT** an official product.
 
-Whatsie is still in beta, so some features might not work properly. Bug reports and feature suggestions are welcome. Please check for updates here regularly in case the update process breaks and your installed version can't update by itself.
+Whatsapp-webapp is still in beta, so some features might not work properly. Bug reports and feature suggestions are welcome. Please check for updates here regularly in case the update process breaks and your installed version can't update by itself.
 
-> **@devs:** If you want to help me improve, fix or maintain the app, [join me on Gitter](https://gitter.im/Aluxian/Whatsie) and let's chat!
 
-![Whatsie Screenshot](./screenshot.png)
+![Whatapp-webapp Screenshot](./screenshot.png)
 
 ## Features
 
@@ -25,19 +24,13 @@ Whatsie is still in beta, so some features might not work properly. Bug reports 
 
 ## How to install
 
-**Note:** If you download from the [releases page](https://github.com/Aluxian/Whatsie/releases), be careful what version you pick. Releases that end with `-beta` are beta releases, the ones that end with `-dev` are development releases, and the rest are stable. If you're unsure which to pick, opt for stable. Once you download the app, you'll be able to switch to another channel from the menu.
+**Note:** If you download from the [releases page](https://github.com/rafael-neri/whatsapp-webapp/releases), be careful what version you pick. Releases that end with `-beta` are beta releases, the ones that end with `-dev` are development releases, and the rest are stable. If you're unsure which to pick, opt for stable. Once you download the app, you'll be able to switch to another channel from the menu.
 
 - **dev:** these releases get the newest and hottest features, but they are less tested and might break things
 - **beta:** these releases are the right balance between getting new features early while staying away from nasty bugs
 - **stable:** these releases are more thoroughly tested; they receive new features later, but there's a lower chance that things will go wrong
 
 If you want to help me make Whatsie better, I recommend `dev` or `beta`. Let's go!
-
-### OS X
-
-1. Download [whatsie-x.x.x-osx.dmg][LR] or [whatsie-x.x.x-osx.zip][LR]
-2. Open or unzip the file and drag the app into the `Applications` folder
-3. Done! The app will update automatically
 
 ### Windows
 
