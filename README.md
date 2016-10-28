@@ -1,12 +1,10 @@
 # Whatsie
 
-[![OS X build](https://travis-ci.org/Aluxian/Whatsie.svg?branch=staging)](https://travis-ci.org/Aluxian/Whatsie)
-[![Windows build](https://ci.appveyor.com/api/projects/status/6vborc92ob25kqe0/branch/staging?svg=true)](https://ci.appveyor.com/project/Aluxian/Whatsie)
-[![Linux builds](https://circleci.com/gh/Aluxian/Whatsie/tree/staging.svg?style=shield)](https://circleci.com/gh/Aluxian/Whatsie)
-[![Downloads total](https://updates.whatsie.chat/badge/downloads.svg)](https://updates.whatsie.chat/stats)
-[![Services status](https://img.shields.io/badge/services-status-blue.svg)](https://status.whatsie.chat/)
-[![HuBoard task board](https://img.shields.io/badge/hu-board-7965cc.svg)](https://huboard.com/Aluxian/Whatsie)
-[![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Aluxian/Whatsie)
+[![Travis branch](https://img.shields.io/travis/rafael-neri/whatsapp-webapp/master.svg)](https://travis-ci.org/rafael-neri/whatsapp-webapp)
+[![Github All Releases](https://img.shields.io/github/downloads/rafael-neri/whatsapp-webapp/total.svg)](https://github.com/rafael-neri/whatsapp-webapp/releases)
+[![GitHub release](https://img.shields.io/github/release/rafael-neri/whatsapp-webapp.svg)](https://github.com/rafael-neri/whatsapp-webapp)
+[![GitHub issues](https://img.shields.io/github/issues/rafael-neri/whatsapp-webapp.svg)](https://github.com/rafael-neri/whatsapp-webapp/issues)
+[![Paypal](https://img.shields.io/badge/paypal-donate-brightgreen.svg)]
 
 A simple &amp; beautiful desktop client for [WhatsApp Web](https://web.whatsapp.com/). Chat without distractions on OS X, Windows and Linux. Not affiliated with WhatsApp or Facebook. This is **NOT** an official product.
 
