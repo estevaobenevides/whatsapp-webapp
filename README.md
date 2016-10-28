@@ -1,10 +1,10 @@
-# Whatsie
+# whatsapp-webapp
 
-[![Travis branch](https://img.shields.io/travis/rafael-neri/whatsapp-webapp/master.svg)](https://travis-ci.org/rafael-neri/whatsapp-webapp)
-[![Github All Releases](https://img.shields.io/github/downloads/rafael-neri/whatsapp-webapp/total.svg)](https://github.com/rafael-neri/whatsapp-webapp/releases)
-[![GitHub release](https://img.shields.io/github/release/rafael-neri/whatsapp-webapp.svg)](https://github.com/rafael-neri/whatsapp-webapp)
+[![Travis CI](https://img.shields.io/travis/rafael-neri/whatsapp-webapp/master.svg)](https://travis-ci.org/rafael-neri/whatsapp-webapp)
+[![GitHub Last Release](https://img.shields.io/github/release/rafael-neri/whatsapp-webapp.svg)](https://github.com/rafael-neri/whatsapp-webapp)
+[![Github All Downloads](https://img.shields.io/github/downloads/rafael-neri/whatsapp-webapp/total.svg)](https://github.com/rafael-neri/whatsapp-webapp/releases)
 [![GitHub issues](https://img.shields.io/github/issues/rafael-neri/whatsapp-webapp.svg)](https://github.com/rafael-neri/whatsapp-webapp/issues)
-[![Paypal](https://img.shields.io/badge/paypal-donate-brightgreen.svg)]
+[![Paypal](https://img.shields.io/badge/paypal-donate-brightgreen.svg)]()
 
 A simple &amp; beautiful desktop client for [WhatsApp Web](https://web.whatsapp.com/). Chat without distractions on OS X, Windows and Linux. Not affiliated with WhatsApp or Facebook. This is **NOT** an official product.
 
