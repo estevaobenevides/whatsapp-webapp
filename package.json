@@ -1,5 +1,5 @@
 {
-  "name": "whatsie",
+  "name": "whatsapp-webapp",
   "dependencies": {
     "asar": "0.12.3",
     "async": "2.0.1",
@@ -52,24 +52,21 @@
     "lint-coffee": "coffeelint tasks/",
     "lint-less": "lesshint src/styles/"
   },
-  "license": "MIT",
-  "author": "Alexandru Rosianu <me@aluxian.com>",
-  "homepage": "https://whatsie.chat/",
+  "license": {
+    "type": "Apache-2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0"
+  },
+  "author": "Rafael Neri",
+  "homepage": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Aluxian/Whatsie.git",
-    "aur": "ssh+git://aur@aur.archlinux.org/whatsie.git"
+    "url": "https://github.com/rafael-neri/whatsapp-webapp.git",
+    "aur": "ssh+git://aur@aur.archlinux.org/whatsapp-webapp.git"
   },
   "icon": {
-    "url": "https://raw.githubusercontent.com/Aluxian/Whatsie/master/resources/win/app.ico"
-  },
-  "bintray": {
-    "subject": "aluxian",
-    "artifactsRepoName": "artifacts",
-    "aurRepoName": "aur",
-    "gpgpub": "6DDA23616E3FE905FFDA152AE61DA9241537994D"
+    "url": "https://raw.githubusercontent.com/rafael-neri/whatsapp-webapp/master/resources/win/app.ico"
   },
   "bugs": {
-    "url": "https://github.com/Aluxian/Whatsie/issues"
+    "url": "https://github.com/rafael-neri/whatsapp-webapp/issues"
   }
 }
